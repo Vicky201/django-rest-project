@@ -1,7 +1,7 @@
 # django-rest-project
-qadsffhgku
+This project uses Ice and Fire API to get books. It also provides CRUD operations for local Database.
 
-# deploying in python anywhere using free plan
-click on new bash console on python anywhere website
-git clone this repo in python anywhere console
-$ git clone 
+clone this repository
+  $ git clone 
+
+    
